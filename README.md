@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnlerner
-- 👀 I’m interested in programation, software development, SQL, DB, Machine Learning, Business Intelligence and AI.
-- 🌱 I’m currently learning MDX, Machine Learning and porgramation.
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in programming, software development, SQL, DB, Machine Learning, Business Intelligence and AI.
+- 🌱 I’m currently learning HTML, css, Java and Python.
+- 💞️ I’m looking to collaborate on BI projects
 - 📫 How to reach me: on the @joao.lerner on instagram
 
 <!---
